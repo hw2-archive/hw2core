@@ -1,0 +1,6 @@
+[submodule "share/src/apps/hw2dbsync"]
+	path = share/src/apps/hw2dbsync
+	url = git://github.com/HyperWeb2/dbsync.git
+[submodule "share/src/apps/hw2mysqltool"]
+	path = share/src/apps/hw2mysqltool
+	url = git://github.com/udw/mysqltool_XT.git
