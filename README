@@ -1,0 +1,20 @@
+=============== HW2_core =================
+
+Crossplatform/crosslanguage software application
+to add and share code and files
+between different applications
+
+=== Structure
+
+First folder:
+contains informations/run files
+
+Local folder:
+Dedicated folder related to the project 
+where hw2_core is installed
+
+Share folder:
+Shared folder not related to the project
+where hw2_core is installed
+
+==========================================

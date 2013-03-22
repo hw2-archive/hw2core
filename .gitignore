@@ -1,0 +1,48 @@
+#
+# ignore file
+#
+
+!.gitignore
+
+#
+# OS specific
+#
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+
+
+#
+# Editors / debuggers / other output files
+#
+*~
+*.bak
+*.orig
+*.patch
+callgrind.out.*
+
+#
+# Git stuff
+#
+# stgit directories
+patches-*
+
+/cache/*
+/local/cache/*
+/!local/cache/index.html
+/.settings/
+/local/files/*
+/!local/files/index.html
+/database/my_db.sql.gz
+/local/tmp/*
+/local/logs/*/
+
+
+
+/.sync.ffs_db
+/nbproject/private/
+/.netbeans_hw2/nbproject/private/
+/.externalToolBuilders/*
