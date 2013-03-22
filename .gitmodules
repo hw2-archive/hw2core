@@ -4,3 +4,6 @@
 [submodule "share/src/apps/hw2mysqltool"]
 	path = share/src/apps/hw2mysqltool
 	url = git://github.com/udw/mysqltool_XT.git
+[submodule "share/src/jplatform/cms"]
+	path = share/src/jplatform/cms
+	url = git@github.com:HyperWeb2/joomla-cms.git
