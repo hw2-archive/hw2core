@@ -41,8 +41,7 @@ patches-*
 /local/logs/*/
 
 
-
 /.sync.ffs_db
-/nbproject/private/
-/.netbeans_hw2/nbproject/private/
+/.netbeans_hw2/web/nbproject/private/
+/.netbeans_hw2/cli/nbproject/private/
 /.externalToolBuilders/*
