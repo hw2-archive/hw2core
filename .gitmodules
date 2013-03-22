@@ -1,9 +1,9 @@
 [submodule "share/src/apps/hw2dbsync"]
 	path = share/src/apps/hw2dbsync
-	url = git://github.com/HyperWeb2/dbsync.git
+	url = git://github.com/udw/dbsync.git
 [submodule "share/src/apps/hw2mysqltool"]
 	path = share/src/apps/hw2mysqltool
 	url = git://github.com/udw/mysqltool_XT.git
 [submodule "share/src/jplatform/cms"]
 	path = share/src/jplatform/cms
-	url = git@github.com:HyperWeb2/joomla-cms.git
+	url = git@github.com:udw/joomla-cms.git
